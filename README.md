@@ -1,2 +1,3 @@
-# employees
-Employee Database Application
+# EMPLOYEES
+
+### Employee Database Application
